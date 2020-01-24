@@ -1,0 +1,13 @@
+{
+  "input":{
+  	"text":"hello"
+  },
+  "voice":{
+    "languageCode":"en-US",
+    "name":"en-US-Wavenet-D",
+    "ssmlGender":"MALE"
+  },
+  "audioConfig":{
+    "audioEncoding":"MP3"
+  }
+}
